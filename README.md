@@ -24,10 +24,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="40" alt="NextJS logo" title="NextJS"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="css3 logo" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS logo" title="TailwindCSS" />
           
 </div>
 
@@ -93,11 +94,17 @@
 
 ## 🌟 Proyectos Destacados
 
-### 🏆 [Oh!SanSi - Sistema de Inscripciones](https://cutiemark.tis.cs.umss.edu.bo/)
-**Sistema web completo para inscripciones a las Olimpiadas Oh!SanSi**
+🏆 Oh!SanSi - Sistema de Inscripciones
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jhunior-RG/Jhunior-RG/main/images/ohsansi-screenshot.png" width="600" alt="Oh!SanSi - Olimpiada de Ciencia y Tecnología" />
+</div>
+
+
+**Sistema web completo para inscripciones a las Olimpiadas Oh!SanSi 2025**
 - 🎯 **Frontend**: React + TypeScript para una interfaz moderna y responsive
 - ⚡ **Backend**: API RESTful robusta para gestión de inscripciones
 - 🔐 **Features**: Autenticación, gestión de usuarios, dashboard administrativo
+- 🏫 **Universidad**: Mayor de San Simón 
 - 🌐 **[Demo en Vivo](https://cutiemark.tis.cs.umss.edu.bo/)** | 
   📋 **[Frontend](https://github.com/Cutie-Mark/Sistema-Inscripciones)** | 
   🔧 **[Backend API](https://github.com/Cutie-Mark/api)**
@@ -111,21 +118,20 @@
 
 ---
 
-## 🤝 Conecta Conmigo
+## 🤝 Conéctate Conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://bo.linkedin.com/in/jhunior-remberto-garcia-llanqui-61923823b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:jhuniorremberto1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+ <!-- 
   <a href="https://tu-portafolio.com">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  -->
 </div>
 
 ---
@@ -135,5 +141,9 @@
 </div>
 
 <div align="center">
-  <i>⭐️ Hecho con ❤️ por [Jhunior-RG](https://github.com/Jhunior-RG)</i>
+  <i>⭐️ Hecho con ❤️ por 
+  <a href="https://github.com/Jhunior-RG">
+    Jhunior-RG
+  </a>
+  </i> 
 </div>
